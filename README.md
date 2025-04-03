@@ -7,6 +7,29 @@
 ### 🚀 Key Wins: Built and deployed RESTful APIs that boosted app performance, implemented Apache Kafka for seamless microservices communication, and adopted Java 17, Spring Webflux, and CI-CD tools to cut deployment time and elevate code quality. 
 ### 🌟 I design scalable solutions, integrate AWS services, and leverage JUnit/TestNG for robust testing. From sprint planning to code reviews, I drive efficiency and teamwork—always pushing for cleaner code and faster delivery. Let’s connect to build something great!
 
+📫 **Reach me** at: [ashwani.bhadani.3289@gmail.com](mailto:ashwani.bhadani.3289@gmail.com)
+
+💬 **Open for your suggestions** – feel free to share ideas or feedback!
+
+---
+
+## 🥇 Technical Skills
+
+Here’s my skill set displayed as badges:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+Thanks for stopping by! Let’s connect and build something amazing together! 🚀
+
 ### 🛠 Skills and Expertise
 
 - **Programming Languages:** Java 8, Java 11, Java 17
